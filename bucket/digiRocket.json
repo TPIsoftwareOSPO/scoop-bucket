@@ -1,0 +1,21 @@
+{
+    "version": "1.3.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/TPIsoftwareOSPO/digiRocket/releases/download/v1.3.2/digiRocket_1.3.2_windows_amd64.zip",
+            "bin": [
+                "dgrkt.exe"
+            ],
+            "hash": "ff9d2c1c6c8288075c2caa557d8ebcd9a5782e820725da6aacd65a316b4197a6"
+        },
+        "arm64": {
+            "url": "https://github.com/TPIsoftwareOSPO/digiRocket/releases/download/v1.3.2/digiRocket_1.3.2_windows_arm64.zip",
+            "bin": [
+                "dgrkt.exe"
+            ],
+            "hash": "6f12c763c40fa2f9266b4ef7240e99860c81c27b15c0c52d817011cd13338814"
+        }
+    },
+    "homepage": "https://github.com/TPIsoftwareOSPO/digiRocket",
+    "description": "A command orchestration tool for declarative task execution."
+}
