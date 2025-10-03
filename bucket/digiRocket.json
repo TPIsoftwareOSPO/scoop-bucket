@@ -1,19 +1,19 @@
 {
-    "version": "1.3.3",
+    "version": "1.3.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/TPIsoftwareOSPO/digiRocket/releases/download/v1.3.3/digiRocket_1.3.3_windows_amd64.zip",
+            "url": "https://github.com/TPIsoftwareOSPO/digiRocket/releases/download/v1.3.4/digiRocket_1.3.4_windows_amd64.zip",
             "bin": [
                 "dgrkt.exe"
             ],
-            "hash": "4614571cc8ffc2818ccd87d629679fecdf0425af12a27a2e775c6b98be788978"
+            "hash": "46c7695d838c3198696feb458d89592d3029f805bff9225bdb22c551ade7f316"
         },
         "arm64": {
-            "url": "https://github.com/TPIsoftwareOSPO/digiRocket/releases/download/v1.3.3/digiRocket_1.3.3_windows_arm64.zip",
+            "url": "https://github.com/TPIsoftwareOSPO/digiRocket/releases/download/v1.3.4/digiRocket_1.3.4_windows_arm64.zip",
             "bin": [
                 "dgrkt.exe"
             ],
-            "hash": "35c1dfe7a44848293ea22b7ee9808c1b97e72a1e4eb1db0e23afa3428824b4ab"
+            "hash": "eeed72af39d5ac96183d23638adb9dafdcd5fa289e37d6c1b05653da175f6be9"
         }
     },
     "homepage": "https://github.com/TPIsoftwareOSPO/digiRocket",
