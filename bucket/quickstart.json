@@ -1,0 +1,21 @@
+{
+    "version": "1.3.7",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/TPIsoftwareOSPO/quickstart/releases/download/v1.3.7/quickstart_1.3.7_windows_amd64.zip",
+            "bin": [
+                "quickstart.exe"
+            ],
+            "hash": "a05ee2c46bd5b0fbc63479a7ee7b713acbc1afa0b8571260b25e86177c40a25d"
+        },
+        "arm64": {
+            "url": "https://github.com/TPIsoftwareOSPO/quickstart/releases/download/v1.3.7/quickstart_1.3.7_windows_arm64.zip",
+            "bin": [
+                "quickstart.exe"
+            ],
+            "hash": "0b66baf73ffef4b56536802bbe5944a64cca11265b564524a89d7c59583f0016"
+        }
+    },
+    "homepage": "https://github.com/TPIsoftwareOSPO/quickstart",
+    "description": "A command orchestration tool for declarative task execution."
+}
